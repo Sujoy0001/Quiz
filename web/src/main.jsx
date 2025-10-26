@@ -9,7 +9,7 @@ import LeaderboardPage from './pages/LeaderboardPage';
 import HistoryPage from './pages/HistoryPage';
 import Layout02 from './layout/Layout02';
 import Register from './pages/Register';
-import Index from './pages';
+import Index from './pages/Index';
 import Login from './pages/Login';
 import QuizPage from './pages/QuizPage';
 import AdminPage from './pages/AdminPage';
