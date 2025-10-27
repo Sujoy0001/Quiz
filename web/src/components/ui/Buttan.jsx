@@ -6,6 +6,7 @@ export default function Button({ onClick, text, icon: Icon, variant = "default" 
   const variants = {
     default: "bg-white text-black border border-gray-300 hover:bg-gray-100",
     dark: "bg-black text-white hover:bg-gray-900",
+    delete: "bg-red-500/80 border border-red-500 hover:bg-red-500"
   };
 
   return (

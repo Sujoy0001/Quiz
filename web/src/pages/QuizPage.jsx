@@ -45,7 +45,7 @@ export default function QuizPage() {
     return (
         <>
             <div className="flex justify-center items-center p-18">
-                <ResultCard quizResult={quizResult} />;
+                <ResultCard quizResult={quizResult} />
             </div>
         </>
     ) 
